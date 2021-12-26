@@ -11,3 +11,7 @@
 
 ## Assignment - 4
 * ### [Kaggle Notebook](https://www.kaggle.com/kartik2khandelwal/some-questions-related-to-heart-disease-answered/notebook)
+* ### [Dataset](https://www.kaggle.com/fedesoriano/heart-failure-prediction)
+
+## Assignment - 5
+* ### [Kaggle Notebook](https://www.kaggle.com/kartik2khandelwal/titanic-complete-model-training-testing)
