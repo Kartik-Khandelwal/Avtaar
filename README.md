@@ -16,5 +16,5 @@
 ### Assignment - 5
 * #### [Kaggle Notebook](https://www.kaggle.com/kartik2khandelwal/titanic-complete-model-training-testing)
 #
-### Assignment - 6
+### Assignment - 7
 * #### [Kaggle Notebook](https://www.kaggle.com/kartik2khandelwal/beginner-s-implementation-of-deep-learning?scriptVersionId=83339988)
