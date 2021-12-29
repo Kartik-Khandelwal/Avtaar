@@ -17,7 +17,7 @@
 * #### [Kaggle Notebook](https://www.kaggle.com/kartik2khandelwal/titanic-complete-model-training-testing)
 #
 ### Assignment - 6
-* #### [Kaggle Nonebook](https://www.kaggle.com/kartik2khandelwal/unsupervised-ml-using-masculinity-dataset)
+* #### [Kaggle Notebook](https://www.kaggle.com/kartik2khandelwal/unsupervised-ml-using-masculinity-dataset)
 #
 ### Assignment - 7
 * #### [Kaggle Notebook](https://www.kaggle.com/kartik2khandelwal/beginner-s-implementation-of-deep-learning?scriptVersionId=83339988)
